@@ -21,7 +21,7 @@ cd Publice_Cloner
 
 git pull
 
-python RJ_Publice.py
+python RJ_Public.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use RJ_Shuvo Public Crack Tools Enjoy)
 
